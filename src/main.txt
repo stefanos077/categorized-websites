@@ -1,2 +1,3 @@
 📚 An organized list of websites categorized by topic
 # clarify the control flow
+# match the style used in the rest of the module
