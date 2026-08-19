@@ -58,3 +58,4 @@ Notes and usage details for categorized-websites.
 - link the usage section
 - clarify the setup steps
 - add a note about the defaults
+- add a note about the defaults
